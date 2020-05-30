@@ -64,11 +64,11 @@ logo ="""
 \033[1;96m█.    _-_-- -_ --  Anonymous Indonesia
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██      CRACK FB  by RendY  Tutorial                    
+\033[1;96m ██ ██      CRACK FB  by Cyber Domba                    
 \033[1;93m╔═══════════════════════════════════════════╗
-\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mTutorialTermux\033[1;93m                 ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4mAnonymous\033[0m \033[1;93m                     ║
-\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mAnonymous Indonesia\033[0m \033[1;93m           ║
+\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mCyber Domba\033[1;93m                                                ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m088293359463\033[4m\033[0m \033[1;93m                                ║
+\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mhttps://www.facebook.com/Sadoet75\033[0m \033[1;93m           ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -113,13 +113,13 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell RendY Tutorial !!'
+        print 'Silahkankan Subscribe ke channell Cyber Domba !!'
         time.sleep(3)
         print 'Semoga yang gk subscribe mandul awokwokwokk Amin...!!'
 
         print 'Biasanya yng gk subrek gk bisa login'
         time.sleep(5)
-        os.system('xdg-open https://www.youtube.com/channel/UCXEXrP0rqmX7rYk2qKcjnzQ ')
+        os.system('xdg-open https://www.youtube.com/channel/UCKdSySlEqFXVnR3-1TWD42Q ')
         print 'name = RY  dan   Pasw = GANS '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
